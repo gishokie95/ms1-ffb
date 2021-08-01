@@ -1,2 +1,2 @@
 # ms1-ffb
-R and MATLAB code used for processing fuels and fire behavior data
+R code used for plotting fuels and fire behavior data
